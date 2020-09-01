@@ -1,4 +1,5 @@
-[{
+{
+  "posts": [{
         "id": "1234",
         "value": "Dataset 1",
         "path": ["1234"],
@@ -25,4 +26,8 @@
             ]
           }
         ]
-      }]
+      }],
+  "profile": {
+    "name": "typicode"
+  }
+}
